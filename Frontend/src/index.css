@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nokora:wght@100;300;400;700;900&family=Outfit:wght@100..900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: "Outfit";
+  /* background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+  background-color: gray;
+}
